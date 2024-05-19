@@ -1567,6 +1567,9 @@ input:checked ~ .tab-content {
 }
 
 @media only screen and (max-width: 600px) {
+  .hero-banner-button a {
+    font-size: 1.65rem;
+  }
   .faq-main-parent {
     margin-top: 50px;
     z-index: 9999;
