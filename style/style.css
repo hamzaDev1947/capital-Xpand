@@ -1604,9 +1604,7 @@ input:checked ~ .tab-content {
   .credit-images img:nth-child(2) {
     display: none;
   }
-  .two-hand-parent p {
-    text-align: justify;
-  }
+
   .heading-review span {
     font-size: 25px;
   }
