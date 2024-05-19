@@ -1570,6 +1570,10 @@ input:checked ~ .tab-content {
 }
 
 @media only screen and (max-width: 600px) {
+  .parent-mobile-section {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
   .hero-banner-button a {
     font-size: 1.65rem;
   }
