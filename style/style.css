@@ -223,7 +223,7 @@ body {
 }
 
 .header-menu {
-  z-index: 999;
+  z-index: 99999;
   background-color: var(--color--bg);
   letter-spacing: 0;
   border: 1px solid #121d27;
