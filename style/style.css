@@ -1435,6 +1435,7 @@ input:checked ~ .tab-content {
   display: flex;
   align-items: center;
   gap: 10px;
+  color: white;
 }
 
 .footer-2 {
