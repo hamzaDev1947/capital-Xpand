@@ -1663,8 +1663,8 @@ input:checked ~ .tab-content {
   border-radius: 5px;
   text-align: center;
   cursor: pointer;
-  display: none; /* Initially hidden */
-  z-index: 1000; /* Ensure it is above other elements */
+  display: none;
+  z-index: 999999999;
   font-size: 20px;
 }
 
