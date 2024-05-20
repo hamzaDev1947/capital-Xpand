@@ -941,11 +941,13 @@ section {
 
 .mobile-gif-right {
   z-index: 2000;
+  display: flex;
+  align-items: center;
 }
 
-.mobile-gif-right img {
+/* .mobile-gif-right img {
   height: 745px;
-}
+} */
 
 .sub-wealth-info {
   border-width: 1px;
