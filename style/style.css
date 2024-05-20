@@ -937,7 +937,6 @@ section {
 
 .parent-mobile-section {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .mobile-gif-right {
@@ -1561,6 +1560,9 @@ input:checked ~ .tab-content {
   .parent-wealth h2 {
     text-align: center;
   }
+  .parent-mobile-section {
+    flex-wrap: wrap;
+  }
 }
 
 @media only screen and (max-width: 729px) {
@@ -1626,10 +1628,10 @@ input:checked ~ .tab-content {
     display: none;
   }
 
-  .sub-hand {
+  /* .sub-hand {
     flex-direction: column;
     gap: 50px;
-  }
+  } */
 
   .right-faq {
     flex-basis: 100%;
