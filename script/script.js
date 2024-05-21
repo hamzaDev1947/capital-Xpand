@@ -27,3 +27,10 @@ window.addEventListener("scroll", checkScroll);
 
 // Add event listener to scroll to top on button click
 scrollToTopButton.addEventListener("click", scrollToTop);
+
+// var vid = document.getElementById("vid");
+
+// function play() {
+//   if (vid.paused) vid.play();
+//   else vid.pause();
+// }
