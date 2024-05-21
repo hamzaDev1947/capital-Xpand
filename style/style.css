@@ -1715,3 +1715,10 @@ input:checked ~ .tab-content {
 .scroll-to-top:hover {
   background-color: #555;
 }
+.creation-images img {
+  height: 250px;
+}
+.creation-images {
+  gap: 20px;
+  flex-direction: column;
+}
