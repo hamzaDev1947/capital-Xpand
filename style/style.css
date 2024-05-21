@@ -1359,7 +1359,7 @@ input:checked ~ .tab-content {
 .faq-main-parent {
   position: relative;
   display: flex;
-  margin-top: 160px;
+  margin-top: 80px;
   flex-wrap: wrap;
 }
 
